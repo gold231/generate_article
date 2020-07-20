@@ -2,7 +2,7 @@
 
 Git clone this repository, and `cd` into directory for remaining commands
 ```
-git clone https://github.com/openai/gpt-2.git && cd gpt-2
+git clone https://github.com/Dragon056/generate_article && cd generate_article
 ```
 
 Then, follow instructions for either native or Docker installation.
