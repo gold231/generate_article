@@ -17,7 +17,7 @@ def interact_model(
     temperature=1,
     top_k=0,
     top_p=1,
-    models_dir='models',
+    models_dir='E:/as_model-master/models',
 ):
     """
     Interactively run the model
